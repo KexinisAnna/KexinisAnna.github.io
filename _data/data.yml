@@ -84,15 +84,15 @@ experiences:
         time: 2023 May - 2023 August
         company: Startup Hubs, Nanjing, China
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          In my most recent position at Answer Tech Company, I worked closely with software engineers 
+          and data researchers to create a software aimed at implementing trading strategies 
+          for future contracts within the Chinese market.
+          As a data analyst, I played a pivotal role in preparing daily data acquired from the Futures Exchange. 
+          Additionally, I undertook the responsibility of calculating specialized indices from historical data, 
+          which were treated as signals for subsequent strategy selection in our trading activities. 
+          This experience involved extensive use of SQL for handling substantial datasets, 
+          and I adeptly crafted SQL procedures to automate the generation of new datasets. 
+          To enhance efficiency, my team engineered Python tools for concurrent trading, significantly expediting dataset generation.
             - Bullet point
             - Bullet point
       - role: Senior Software Engineer
