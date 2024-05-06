@@ -93,7 +93,8 @@ experiences:
           This experience involved extensive use of SQL for handling substantial datasets, 
           and I adeptly crafted SQL procedures to automate the generation of new datasets. 
           To enhance efficiency, my team engineered Python tools for concurrent trading, significantly expediting dataset generation.
-            - Bullet point
+            - Monitor and provide technical support for daily time-critical mass production process for pricing thousands of 
+            OTC derivatives in European funds (with deadline 7:45 am CET) using a proprietary in-house valuation engine based on Python
             - Bullet point
       - role: Senior Software Engineer
         time: 2014 - 2015
