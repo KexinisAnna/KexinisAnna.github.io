@@ -15,9 +15,9 @@ sidebar:
     # Sidebar links
     email: kw677@cornell.edu
     phone: 646 725 1069
-    timezone: America/Canada Timezone
-    website: blog.webjeda.com #do not add http://
     linkedin: https://www.linkedin.com/in/kexin-wang-0b274b196/
+    timezone: America/Canada Timezone
+    website: https://kexinisanna.github.io/
   
 
     languages:
@@ -32,10 +32,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Vlogging
           link:
 
-        - item: Snowboarding
+        - item: Poker
           link:
 
         - item: Cooking
@@ -44,12 +44,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      My journey began with Applied Mathematics studies at the University of Toronto, 
+      focusing on Statistics. I explored a range of topics like probability, 
+      data analysis, statistical modeling, time series, machine learning, 
+      and multivariate statistical analysis. 
+      These studies set the stage for my hands-on roles at Answer Tech, 
+      China Life Insurance, and Citic Securities. There, I learned to use tools like SQL, 
+      SAS, and Python for real-world challenges.
 education:
     title: Education
     info:
