@@ -58,22 +58,18 @@ education:
         university: Cornell University
         time: 2023 - 2024
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Master of Engineering in Financial Engineering (Expected Dec 2024)
+            Relevant Coursework: Stochastic Calculus, Optimization, Monte Carlo Simulation, 
+            Python in Finance, Fixed Income.
             - Bullet point
             - Bullet point
       - degree: BSc in Applied Mathematics
         university: University of Toronto
         time: 2019 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Bachelor of Science in Mathematics (May 2023)
+            Awards: 2022 University of Toronto Excellence Award, Dean’s List (2019 – 2023)
+            Relevant Coursework: Probability and Statistics, Advanced Calculus, Financial Principles.
             - Bullet point
             - Bullet point
 
@@ -82,7 +78,7 @@ experiences:
     info:
       - role: Data Analyst
         time: 2023 May - 2023 August
-        company: Startup Hubs, Nanjing, China
+        company: Answer Technology, Nanjing, China
         details: |
           In my most recent position at Answer Tech Company, I worked closely with software engineers 
           and data researchers to create a software aimed at implementing trading strategies 
@@ -96,69 +92,23 @@ experiences:
             - Monitor and provide technical support for daily time-critical mass production process for pricing thousands of 
             OTC derivatives in European funds (with deadline 7:45 am CET) using a proprietary in-house valuation engine based on Python
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Research Assistant
+        time: 2021 - 2022
+        company: University of Toronto Statistics Department, Canada
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Implemented financial models to predict option pricing and volatility using Python; 
+          collaborated on model analysis.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Actuary Analyst
+        time: 2021 - 2021
+        company: China Life Insurance Group, Co., Nanjing, China 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Analyzed insurance premium correlations and market trends; 
+          enhanced data presentation leading to strategic executive decisions.
             - Bullet point
             - Bullet point
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
