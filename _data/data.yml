@@ -91,23 +91,28 @@ experiences:
           To enhance efficiency, my team engineered Python tools for concurrent trading, significantly expediting dataset generation.
             - Monitor and provide technical support for daily time-critical mass production process for pricing thousands of 
             OTC derivatives in European funds (with deadline 7:45 am CET) using a proprietary in-house valuation engine based on Python
-            - Bullet point
+            - Automated Data Processes: Developed SQL stored procedures to automate the extraction and analysis of data from futures contract price charts, 
+            enhancing the speed and accuracy of trading strategy evaluations.
       - role: Research Assistant
         time: 2021 - 2022
         company: University of Toronto Statistics Department, Canada
         details: |
           Implemented financial models to predict option pricing and volatility using Python; 
           collaborated on model analysis.
-            - Bullet point
-            - Bullet point
+            - Model Development: Engineered a Vector-autoregressive model integrated into the Black-Scholes framework to forecast implied volatility rates, 
+            improving the precision of financial derivatives pricing.
+            - Collaborative Research: Worked alongside a team to evaluate the effectiveness of VAR and GARCH models 
+            in predicting financial market behaviors, publishing findings in university journals.
       - role: Actuary Analyst
         time: 2021 - 2021
         company: China Life Insurance Group, Co., Nanjing, China 
         details: |
           Analyzed insurance premium correlations and market trends; 
           enhanced data presentation leading to strategic executive decisions.
-            - Bullet point
-            - Bullet point
+            - Risk Analysis: Conducted in-depth analysis of the correlation between insurance premiums and natural disaster occurrences, 
+            supporting the development of more accurate pricing models.
+            - Visualization and Reporting: Designed and produced dynamic visual presentations using Python, effectively communicating complex data insights to senior management, 
+            influencing policy and strategic decisions.
 
 
 projects:
